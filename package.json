@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"author": "jbystronski",
 	"license": "MIT",
+	"description": "Weather widget for Svelte applications",
 	"repository": "jbystronski/jb-svelte-weather-widget",
 	"homepage": "https://jb-weather-widget.surge.sh",
 	"scripts": {
